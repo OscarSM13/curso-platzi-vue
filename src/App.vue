@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://oscarsm13.github.io/curso-platzi-vue/dist/logo.png')
     h1 {{ msg }}
     h2 Essential Links
     select(v-model="selectedCountry")
