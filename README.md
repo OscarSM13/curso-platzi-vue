@@ -7,7 +7,7 @@
 
 >>tags={"tag explanation"},
 
->>@SWG\Parameter(
+>>\@SWG\Parameter(
 >>>	name="name parameter",
 
 >>>in=" 'query' or 'path' for exameple",
