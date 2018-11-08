@@ -2,17 +2,23 @@
 
 >@SWG\Put(
 >>path="/example",
+
 >>description="example explanation",
+
 >>tags={"tag explanation"},
+
 >>@SWG\Parameter(
 >>>	name="name parameter",
+
 >>>in=" 'query' or 'path' for exameple",
+
 >>>type="type of the variable",
+
 >>>description="description variable",
+
 >>>required= si es obligatorio o no,
 >>)
 >
-
 >)
 
 ## Build Setup
